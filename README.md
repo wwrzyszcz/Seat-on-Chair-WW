@@ -1,1 +1,1 @@
-# Seat-on-Chair-WW
+# Sit-on-Chair-WW
